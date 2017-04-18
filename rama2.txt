@@ -1,2 +1,4 @@
-rama_2
+rama_2 archivo
+
+prueba de la rama2 merge
 
